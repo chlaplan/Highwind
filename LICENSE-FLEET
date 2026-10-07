@@ -1,0 +1,76 @@
+Highwind Fleet License
+Version 1.0, effective with Highwind Fleet 3.7.0
+
+Copyright (c) 2025-2026 Chris LaPlante. All rights reserved.
+
+This license covers the Highwind Fleet management API, the Highwind Fleet
+portal, their database schema scripts, deployment scripts and documentation
+(together, the "Fleet Software"). The free Highwind desktop client and Fleet
+agent are covered by the Highwind Client License instead.
+
+1. License file required. The Fleet Software is commercial software. You may
+   use it only while you hold a valid, unmodified license file (.hwlic)
+   issued to you by the copyright holder. The license file states your
+   customer name, license type, term, licensed features, device limit and
+   any tenant or installation binding. Those terms form part of this license.
+
+2. Grant. During the term in your license file, the copyright holder grants
+   you a non-exclusive, non-transferable, non-sublicensable right to install
+   and run the Fleet Software on infrastructure you control (including your
+   own cloud subscriptions and disconnected networks), for your internal
+   business purposes, within the features and device limit in your license
+   file. You may keep copies for backup, disaster recovery and testing.
+
+3. Evaluation and trial licenses. Trial and Preview license files are for
+   evaluation only and may not be used in production unless the copyright
+   holder agrees in writing.
+
+4. Expiry. When the term ends the Fleet Software becomes read-only and then
+   requires a renewed license file. Expiry never affects managed devices or
+   the Highwind client. Renewal does not require reinstalling.
+
+5. Restrictions. You may not:
+   a. distribute, sell, rent, lease, host for third parties or sublicense the
+      Fleet Software or a license file;
+   b. share a license file with another organization;
+   c. modify, forge, or tamper with a license file, or modify, patch or bypass
+      the license verification, public keys or feature checks;
+   d. modify, reverse engineer, decompile or disassemble the Fleet Software,
+      except to the extent applicable law expressly permits this despite this
+      restriction;
+   e. remove or alter any copyright, license or attribution notice.
+
+6. Downloads and source. The Fleet Software may be published for download,
+   but downloading it grants no right to run it without a license file.
+   The source code is not published. Access to it may be granted by the
+   copyright holder on request, for review and security assessment only,
+   and may be withdrawn if this license ends.
+
+7. Your data. All data the Fleet Software processes stays in your
+   environment. The Fleet Software does not contact the copyright holder,
+   phone home, or send telemetry, including for license checks.
+
+8. Third-party components. Third-party components are licensed under their
+   own terms, which take precedence for those components.
+
+9. Termination. This license ends at the end of the term in your license file
+   or automatically if you breach it. On termination you must stop using the
+   Fleet Software, except that you may keep read-only access to your own data
+   to export it. Sections 5, 8, 10 and 11 survive termination.
+
+10. No warranty. EXCEPT AS AGREED IN A SEPARATE WRITTEN AGREEMENT, THE FLEET
+    SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+11. Limitation of liability. EXCEPT AS AGREED IN A SEPARATE WRITTEN
+    AGREEMENT, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+    FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+    CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+    THE FLEET SOFTWARE OR THE USE OR OTHER DEALINGS IN THE FLEET SOFTWARE.
+
+12. Order of precedence. A signed agreement between you and the copyright
+    holder (for example a government or enterprise agreement) takes
+    precedence over this license where they conflict.
+
+Highwind is not affiliated with or endorsed by Microsoft.
